@@ -1,9 +1,12 @@
 
 this controller is created on the Windows side
 
-<<<<<<< .merge_file_a07600
+ 
+
+
 this is Windows
-=======
+
+
 this is VM
->>>>>>> .merge_file_a07632
+
 
