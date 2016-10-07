@@ -1,0 +1,3 @@
+this is another file created from gook laptop
+by the time I write this file nop local repo should be behind me unless he pull the code from the remote
+repo first
